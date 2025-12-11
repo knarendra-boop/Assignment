@@ -8,7 +8,7 @@ public class stackVsHeap {
         Animal a2  = new Animal("dog");
         a2 = null;
         System.out.println(a1.name);
-      //  System.out.println(a2.name);
+      // System.out.println(a2.name);
 
 
     }
